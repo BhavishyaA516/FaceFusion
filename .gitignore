@@ -1,0 +1,29 @@
+# Ignore these files
+*.xml
+*.config
+*.jpg
+*.png*
+*.c
+*.out
+*.m
+*.gif
+
+# This being specific
+browse.py
+enableMenu.py
+fileReader.c
+matlabconversion.py
+
+# Ignoring idea files
+.idea
+
+!icon4.png
+
+# Directories
+BTP
+output
+output2
+output3
+
+# Don't ignore these
+!blank.png

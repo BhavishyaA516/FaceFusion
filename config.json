@@ -1,0 +1,9 @@
+{
+    "parameter_v": "3",
+    "parameter_arnold": "3.75",
+    "parameter_u": "2",
+    "parameter_temp_ki": "0.46",
+    "server_host": "192.168.43.50",
+    "connection_choice": "True",
+    "server_port": "18999"
+}
